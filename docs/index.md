@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # My shop 
-## Product list 1
+## To choose a product , click here 
 ### Price list 2
 
 - Bulleted
