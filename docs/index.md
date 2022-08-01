@@ -12,8 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # My shop 
-## Product list
-### Price list
+## Product list 1
+### Price list 2
 
 - Bulleted
 - List
